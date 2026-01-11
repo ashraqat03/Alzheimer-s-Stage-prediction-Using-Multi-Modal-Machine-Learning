@@ -25,7 +25,7 @@ LIVE APP: https://cbio313-project-dxewgbdnhafygjmklnlvyy.streamlit.app/
 9. [Folder Structure](#folder-structure)  
 10. [Future Improvements](#future-improvements)
 11. [Deployment Updates](#deployment-updates)
-
+12. [Datasets Updates](#datasets-updates)
 ---
 
 ## Project Overview
@@ -240,3 +240,10 @@ CBIO313-PROJECT/
   - Model performance metrics (Accuracy: 93%, ROC-AUC: 0.986)
 
 This update enables simplified interaction while maintaining accurate predictions using high-dimensional multimodal data.
+
+---
+## Datasets Updates
+
+  ### January 11, 2026 
+
+- All datasets were removed, in case anyone is intrested in the data, please consider filing a request on the ADNI website
